@@ -1,0 +1,70 @@
+.e-store{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: rgba(137, 10, 10, 0.823);
+    font-size: 120%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 450px;
+    padding-right: 40px;
+    font-family: 'Dosis', Courier, monospace;
+    
+}
+/*ANA SAYFA*/
+.homepage{
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 120%;
+    padding-top: 10px;
+    padding-left: 0px;
+    font-family: 'Dosis', Courier, monospace;
+}
+/*URUNLER*/
+.ourproducts{
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 120%;
+    padding-top: 10px;
+    font-family: 'Dosis', Courier, monospace;
+}
+/*HAKKIMIZDA*/
+.aboutus{
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 120%;
+    padding-top: 10px;
+    font-family: 'Dosis', Courier, monospace;
+}
+/*URUNLER*/
+.item{
+    padding: 10px;
+    border-color: black;
+    border: 5px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+div.item:hover{
+    background-color: rgba(88, 146, 69, 0.5);
+}
+
+p1:hover{
+    color: rgb(0, 0, 0);
+}
+.btn{
+    display:flex;
+    justify-content: center;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+
+
